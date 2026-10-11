@@ -1,0 +1,11 @@
+{
+  "org": "agronholm",
+  "repo": "aiokafka",
+  "versions": [
+    {
+      "commit": "1855cdefa8ae8fb015c50819f7c792d0b959ce23",
+      "tag": "",
+      "parsed_at": "2026-10-11T20:02:39.620299+00:00"
+    }
+  ]
+}
